@@ -1,11 +1,20 @@
 <h1>Projet d'Authentification et CRUD avec React, Express, MongoDB et Redux Toolkit (RTK-Query)</h1>
-Ce projet est une application web complète qui permet aux utilisateurs de s'inscrire, de se connecter, de gérer leurs données utilisateur et d'effectuer des opérations CRUD (Create, Read, Update, Delete) sur une collection de données via une interface utilisateur intuitive. Il utilise les technologies suivantes :
-
-Technologies Utilisées :
+<p>Ce projet est une application web complète qui permet aux utilisateurs de s'inscrire, de se connecter, de gérer leurs données utilisateur et d'effectuer des opérations CRUD (Create, Read, Update, Delete) sur une collection de données via une interface utilisateur intuitive. Il utilise les technologies suivantes </p>:
+<ol>
+  <h4>
+    Technologies Utilisées :
+  </h4>
+  <li>
 React : Une bibliothèque JavaScript moderne pour la construction d'interfaces utilisateur dynamiques.
-Express : Un framework web minimaliste pour Node.js, idéal pour la création d'API RESTful.
-MongoDB : Une base de données NoSQL flexible et évolutive.
-Redux Toolkit (RTK-Query) : Un ensemble d'outils Redux pour la gestion de l'état de l'application et les requêtes HTTP.
+  </li>
+  <li>Express : Un framework web minimaliste pour Node.js, idéal pour la création d'API RESTful.</li>
+  <li>MongoDB : Une base de données NoSQL flexible et évolutive.</li>
+  <li>
+Redux Toolkit (RTK-Query) : Un ensemble d'outils Redux pour la gestion de l'état de l'application et les requêtes HTTP.</li>
+  <li>Milk</li>
+</ol> 
+
+
 Fonctionnalités Principales :
 Authentification Utilisateur :
 
